@@ -1,0 +1,17 @@
+.counter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 300px;
+}
+
+.local_value{
+  background-color: #e5f6fd;
+  color: #2695da;
+}
+
+.server_value{
+  background-color: #fefbea;
+  color: #a06617;
+}
